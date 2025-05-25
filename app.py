@@ -916,4 +916,4 @@ def process_enhanced_question(question, df, metrics):
         return f"I encountered an error analyzing your question: {str(e)}. Please try asking in a different way or use one of the suggested sample questions!"
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(debug=True)
