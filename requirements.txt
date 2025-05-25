@@ -3,4 +3,5 @@ dash-bootstrap-components
 pandas
 plotly
 numpy
+python-dotenv
 google-generativeai
